@@ -2,6 +2,8 @@
 
 This repository contains the source code necessary to reproduce the results presented in the following paper:
 
+Modeling Power Systems Dynamics with Symbolic Physics-Informed Neural Networks.
+
 By Huynh T. T. Tran and Hieu T. Nguyen
 
 Accepted to The 2024 Conference on Innovative Smart Grid Technologies, North America (ISGT NA 2024).
