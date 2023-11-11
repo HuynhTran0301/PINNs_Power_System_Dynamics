@@ -14,47 +14,16 @@ Our results show that the symbolic PINNs provide higher accuracy with significan
 
 ## Numerical Results:
 ### Case study with $\delta = 1$rad and $\omega = -5%rad/s:
-
-![delta_symbolic_tranform1](https://github.com/ThanhEthan/PINNs_Power_System_Dynamics/assets/115194407/c537eeed-b97f-41da-803c-a54ebba58486)
-<img src="[delta_symbolic_tranform1](https://github.com/ThanhEthan/PINNs_Power_System_Dynamics/assets/115194407/c537eeed-b97f-41da-803c-a54ebba58486)" width="500" height="300">
-
-The rotor angle
-
-![speed_symbolic_tranform1](https://github.com/ThanhEthan/PINNs_Power_System_Dynamics/assets/115194407/bea0e331-c008-4a28-be98-e5104e4feca5)
-
-The transient speed
-
-![phase-portrait_symbolic_transform1](https://github.com/ThanhEthan/PINNs_Power_System_Dynamics/assets/115194407/6a89e8fb-07ba-43d6-a9be-9946ccc03dbf)
-
-The phase portrait
+![Case 1](https://github.com/ThanhEthan/PINNs_Power_System_Dynamics/assets/115194407/a6a33657-e834-4108-a176-c97a70203d25)
 
 
 ### Case study 2 with $\delta = 1$rad and $\omega = -5%rad/s:
+![case 2](https://github.com/ThanhEthan/PINNs_Power_System_Dynamics/assets/115194407/03dde745-832e-4f9e-9dee-f24874b7957f)
 
-![delta_symbolic_tranform2](https://github.com/ThanhEthan/PINNs_Power_System_Dynamics/assets/115194407/de4d9102-dd1d-49f7-9bf9-c2e316e46837)
-
-The rotor angle
-
-![speed_symbolic_tranform2](https://github.com/ThanhEthan/PINNs_Power_System_Dynamics/assets/115194407/5fface78-47be-4f5f-a112-2d486964e02e)
-
-The transient speed
-
-![phase-portrait_symbolic_transform2](https://github.com/ThanhEthan/PINNs_Power_System_Dynamics/assets/115194407/585a9c5c-8e87-4571-b815-6d554d94a331)
-
-The phase portrait
 
 ### Pole slipping:
-![delta_symbolic_slipping_adaptive](https://github.com/ThanhEthan/PINNs_Power_System_Dynamics/assets/115194407/ee89b867-44a0-41e8-b475-3dbf3b75beec)
+![case 3](https://github.com/ThanhEthan/PINNs_Power_System_Dynamics/assets/115194407/8a0539a8-24ee-462c-b90e-55b851748232)
 
-The rotor angle
-
-![speed_symbolic_slipping_adaptive](https://github.com/ThanhEthan/PINNs_Power_System_Dynamics/assets/115194407/2ab0e286-01e4-4f2f-8300-719e314b9715)
-
-The transient speed
-
-![phase-portrait_slipping_adptive](https://github.com/ThanhEthan/PINNs_Power_System_Dynamics/assets/115194407/cebd1c8c-b6fc-4ad0-aab1-ea14399ceac5)
-
-The phase portrait
 
 
 ## Language programming:
