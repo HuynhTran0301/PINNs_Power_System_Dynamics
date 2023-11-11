@@ -16,7 +16,8 @@ Our results show that the symbolic PINNs provide higher accuracy with significan
 ### Case study with $\delta = 1$rad and $\omega = -5%rad/s:
 
 ![delta_symbolic_tranform1](https://github.com/ThanhEthan/PINNs_Power_System_Dynamics/assets/115194407/c537eeed-b97f-41da-803c-a54ebba58486)
-<img src="[https://your-image-url.type](https://github.com/ThanhEthan/PINNs_Power_System_Dynamics/assets/115194407/c537eeed-b97f-41da-803c-a54ebba58486)" width="500" height="300">
+<img src="[delta_symbolic_tranform1](https://github.com/ThanhEthan/PINNs_Power_System_Dynamics/assets/115194407/c537eeed-b97f-41da-803c-a54ebba58486)" width="500" height="300">
+
 The rotor angle
 
 ![speed_symbolic_tranform1](https://github.com/ThanhEthan/PINNs_Power_System_Dynamics/assets/115194407/bea0e331-c008-4a28-be98-e5104e4feca5)
