@@ -15,3 +15,4 @@ Our results show that the symbolic PINNs provide higher accuracy with significan
 ## Several Numerical Results:
 
 ![phase-portrait_symbolic_transform1](https://github.com/ThanhEthan/PINNs_Power_System_Dynamics/assets/115194407/7fa89329-6264-477d-96ab-4d2043e44968)
+![phase-portrait_symbolic_transform2](https://github.com/ThanhEthan/PINNs_Power_System_Dynamics/assets/115194407/c2ffc0d2-a441-453d-a162-ff4fa8d1befa)
