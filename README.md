@@ -14,7 +14,7 @@ Our results show that the symbolic PINNs provide higher accuracy with significan
 
 ## Numerical Results:
 ### Case study with $\delta = 1$rad and $\omega = -5%rad/s:
-![Case 1](https://github.com/ThanhEthan/PINNs_Power_System_Dynamics/assets/115194407/a6a33657-e834-4108-a176-c97a70203d25)
+![Case 1](https://github.com/ThanhEthan/PINNs_Power_System_Dynamics/assets/115194407/e1b7ed31-0899-45b0-8d8c-ea048eb7d305)
 
 
 ### Case study 2 with $\delta = 1$rad and $\omega = -5%rad/s:
