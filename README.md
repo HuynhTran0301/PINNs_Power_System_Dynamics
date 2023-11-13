@@ -16,15 +16,15 @@ Our results show that the symbolic PINNs provide higher accuracy with significan
 
 ## Numerical Results:
 ### Case study with $\delta = 1$rad and $\omega = -5%rad/s:
-![Case 1](https://github.com/ThanhEthan/PINNs_Power_System_Dynamics/assets/115194407/e1b7ed31-0899-45b0-8d8c-ea048eb7d305)
+![Case 1](https://github.com/ThanhEthan/PINNs_Power_System_Dynamics/assets/115194407/2af034e1-2328-4db3-97db-3511cf13be8b)
 
 
 ### Case study 2 with $\delta = 1$rad and $\omega = -5%rad/s:
-![case 2](https://github.com/ThanhEthan/PINNs_Power_System_Dynamics/assets/115194407/03dde745-832e-4f9e-9dee-f24874b7957f)
+![case 2](https://github.com/ThanhEthan/PINNs_Power_System_Dynamics/assets/115194407/3ef98cc5-6cd2-44ed-bae3-46e9cd9fa973)
 
 
 ### Pole slipping:
-![case 3](https://github.com/ThanhEthan/PINNs_Power_System_Dynamics/assets/115194407/8a0539a8-24ee-462c-b90e-55b851748232)
+![case 3](https://github.com/ThanhEthan/PINNs_Power_System_Dynamics/assets/115194407/8b35c88e-48a0-4c8f-9a79-2fcf33fb08c1)
 
 
 
