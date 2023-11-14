@@ -16,7 +16,7 @@ In recent years, scientific machine learning, particularly physic-informed neura
 Our results show that the symbolic PINNs provide higher accuracy with significantly fewer parameters and faster training time. By using the adaptive weight method, the symbolic PINNs can avoid the vanishing gradient problem and numerical instability.
 
 ## Numerical Results:
-### Case study with $$\delta = 1 $$rad and $\omega = -5$rad/s:
+### Case study with $ \delta = 1$rad and $\omega = -5$rad/s:
 ![Case 1](https://github.com/ThanhEthan/PINNs_Power_System_Dynamics/assets/115194407/2af034e1-2328-4db3-97db-3511cf13be8b)
 
 
