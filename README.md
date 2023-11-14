@@ -3,6 +3,7 @@
 This repository contains the source code necessary to reproduce the results presented in the following paper:
 
 Modeling Power Systems Dynamics with Symbolic Physics-Informed Neural Networks.
+https://arxiv.org/abs/2311.06580
 
 By Huynh T. T. Tran and Hieu T. Nguyen
 
